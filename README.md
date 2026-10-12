@@ -1,2 +1,2 @@
 # Tatu
-A Hyprland setup for those who enjoy such things!
+A Linux setup for those who enjoy such things!
